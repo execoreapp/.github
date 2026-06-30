@@ -8,15 +8,16 @@
 <h3 align="center">Everything you build, in one window.</h3>
 
 <p align="center">
-  Building software means juggling repos, terminals, branches and a dozen open windows,<br>
-  plus the quiet tax of keeping it all in your head. Execore takes that weight off.
+  Building software usually means a dozen open windows. A terminal, a browser, a few repos,<br>
+  a branch you forgot you were on, and the running cost of holding all of it in your head.<br>
+  Execore puts it back in one place.
 </p>
 
 <p align="center">
-  Every project lives in its own <b>workspace</b> — self-contained, organized, one click from the next.
-  You manage and build all of them from a single platform, with the technicalities kept out of the way,
-  so less stands between the idea and the thing that actually runs. It's the kind of place a seasoned team
-  settles into, and a developer can sit down and start shipping on their first day.
+  Every project gets its own <b>workspace</b>. Switch between them in a click, and everything that project<br>
+  needs is right where you left it. The setup and the busywork stay out of the way, so there's a lot less<br>
+  between an idea and a working version of it. People who have shipped for years settle in fast,<br>
+  and people in their first week can keep up without a manual.
 </p>
 
 <br>
