@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/execoreapp/.github/main/profile/assets/lockup-dark.png">
-    <img alt="Execore" src="https://raw.githubusercontent.com/execoreapp/.github/main/profile/assets/lockup-light.png" width="430">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/execoreapp/.github/main/profile/assets/wordmark-dark.png">
+    <img alt="Execore" src="https://raw.githubusercontent.com/execoreapp/.github/main/profile/assets/wordmark-light.png" width="430">
   </picture>
 </p>
 
